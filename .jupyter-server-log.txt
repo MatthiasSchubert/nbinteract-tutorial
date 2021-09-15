@@ -51,3 +51,10 @@ TermSocket.open: Opened 1
 [I 07:05:49.187 NotebookApp] Kernel shutdown: 66a3684a-0557-4944-a44d-4dfe13ac9931
 [I 08:00:15.944 NotebookApp] Kernel started: 719b8a44-cce5-4e32-aa7c-4618c8414576, name: python3
 [I 08:00:23.668 NotebookApp] Kernel started: 3be5f9db-f03a-40f8-b3cf-657f866fe7f3, name: python3
+[I 08:00:43.895 NotebookApp] Saving file at /tutorial.ipynb
+[I 08:03:31.019 NotebookApp] Kernel restarted: 3be5f9db-f03a-40f8-b3cf-657f866fe7f3
+[I 08:03:31.230 NotebookApp] Starting buffering for 3be5f9db-f03a-40f8-b3cf-657f866fe7f3:83406283-3dfb-49dd-93d1-4ea49cc84201
+[I 08:03:31.451 NotebookApp] Restoring connection for 3be5f9db-f03a-40f8-b3cf-657f866fe7f3:83406283-3dfb-49dd-93d1-4ea49cc84201
+[I 08:04:05.414 NotebookApp] Kernel restarted: 3be5f9db-f03a-40f8-b3cf-657f866fe7f3
+[I 08:04:05.562 NotebookApp] Starting buffering for 3be5f9db-f03a-40f8-b3cf-657f866fe7f3:83406283-3dfb-49dd-93d1-4ea49cc84201
+[I 08:04:05.793 NotebookApp] Restoring connection for 3be5f9db-f03a-40f8-b3cf-657f866fe7f3:83406283-3dfb-49dd-93d1-4ea49cc84201
