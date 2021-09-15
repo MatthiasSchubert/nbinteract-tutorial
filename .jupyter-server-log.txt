@@ -58,3 +58,7 @@ TermSocket.open: Opened 1
 [I 08:04:05.414 NotebookApp] Kernel restarted: 3be5f9db-f03a-40f8-b3cf-657f866fe7f3
 [I 08:04:05.562 NotebookApp] Starting buffering for 3be5f9db-f03a-40f8-b3cf-657f866fe7f3:83406283-3dfb-49dd-93d1-4ea49cc84201
 [I 08:04:05.793 NotebookApp] Restoring connection for 3be5f9db-f03a-40f8-b3cf-657f866fe7f3:83406283-3dfb-49dd-93d1-4ea49cc84201
+[I 08:04:44.853 NotebookApp] Saving file at /tutorial.ipynb
+[I 08:05:55.908 NotebookApp] Saving file at /requirements.txt
+[I 08:06:15.623 NotebookApp] Saving file at /tutorial.ipynb
+[I 08:06:15.644 NotebookApp] Saving file at /requirements.txt
